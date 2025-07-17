@@ -1,0 +1,4 @@
+Portfolio,Predicted_Return,Actual_Return,Error,Absolute_Error,Direction_Match
+Equal_Weighted,-0.0006,0.008581,-0.009181,0.009181,False
+Cluster_Diversified,0.001679,-0.002325,0.004004,0.004004,False
+PCA_Weighted,0.001792,0.006706,-0.004914,0.004914,True
