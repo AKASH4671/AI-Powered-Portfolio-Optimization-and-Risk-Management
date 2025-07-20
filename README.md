@@ -1,7 +1,7 @@
 # AI-Powered-Portfolio-Optimization-and-Risk-Management
 **Merging AI, Convex Optimization, and Portfolio Theory for Smarter Investments**
 
-## 📌 Overview  
+##  Overview  
 This end-to-end project blends **Modern Portfolio Theory (MPT)** with **AI/ML techniques** to create smarter, more diversified portfolios and predict their performance. We move beyond traditional methods like Equal-Weighting by applying **Principal Component Analysis**, **Clustering**, and **LSTM Neural Networks** — all underpinned by a strong foundation in **portfolio optimization** and **risk-adjusted performance evaluation**.
 
 ---
